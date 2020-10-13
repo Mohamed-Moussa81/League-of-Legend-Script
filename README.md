@@ -1,2 +1,2 @@
 # League-of-Legend-Script
-League of Legend Champion Script, only utilized in custom games in order to follow RIOT games policies
+Lua Script based on a Character in league of legends, sets timers, and automates Character movement and spell prediction
